@@ -1,19 +1,18 @@
 body {
 	background-image: url("http://images6.alphacoders.com/404/404686.jpg");
 	 background-repeat: no-repeat;
-    background-attachment: fixed;
     background-position: center; 
 	}
 h1 {
-	color: #000000 ;
+	color: #FFFFFF ;
 	text-align: center;
 }
 p1 {
-	color: #000000;
+	color: #FFFFFF;
 	text-align: center;
 }
 p {
-	color: #000000;
+	color: #FFFFFF;
 	text-align: left;
 }
 img.center {
@@ -22,10 +21,10 @@ img.center {
   margin-right: auto;
 }
 h2 {
-	color: #000000;
+	color: #FFFFFF;
 }
 h6 { 
-	color: #000000;
+	color: #FFFFFF;
 	text-allign: center;
 }
 h3 {
