@@ -5,15 +5,15 @@ body {
     background-position: center; 
 	}
 h1 {
-	color: #FFFFFF ;
+	color: #000000 ;
 	text-align: center;
 }
 p1 {
-	color: #FFFFFF;
+	color: #000000;
 	text-align: center;
 }
 p {
-	color: #FFFFFF;
+	color: #000000;
 	text-align: left;
 }
 img.center {
@@ -22,10 +22,10 @@ img.center {
   margin-right: auto;
 }
 h2 {
-	color: #FFFFFF;
+	color: #000000;
 }
 h6 { 
-	color: #FFFFFF;
+	color: #000000;
 	text-allign: center;
 }
 h3 {
