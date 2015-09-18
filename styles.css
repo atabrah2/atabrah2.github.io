@@ -1,13 +1,17 @@
 body {
-	background-color: #707070;
+	background-image: url("http://i.imgur.com/7EaWy.jpg");
 	}
 h1 {
-	color: #000000;
+	color: #FFFFFF ;
+	text-align: center;
+}
+p1 {
+	color: #FFFFFF;
 	text-align: center;
 }
 p {
-	color: #000000;
-	text-align: center;
+	color: #FFFFFF;
+	text-align: left;
 }
 img.center {
   display: block;
@@ -15,6 +19,13 @@ img.center {
   margin-right: auto;
 }
 h2 {
-	color: #000000;
-	text-allign: left;
+	color: #FFFFFF;
+}
+h6 { 
+	color: #FFFFFF;
+	text-allign: center;
+}
+h3 {
+	color: #FFFFFF;
+}
 }
